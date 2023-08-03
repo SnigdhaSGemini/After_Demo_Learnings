@@ -1,0 +1,15 @@
+li{
+    padding: 2vw;
+    margin: 1vw;
+    background-color: aliceblue;
+    margin: 1vw;
+}
+li p{
+    font-weight: bold;
+    color:cadetblue;
+    padding: 1vw;
+}
+li h4{
+    font-size: x-large;
+    padding: 1vw;
+}

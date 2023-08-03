@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.country{
+    padding: 5vw;
+    margin: 0;
+    background-color:azure;
+    
+}
+.top-head{
+    padding: 2vw 0vw;
+    margin: 0;
+    background-color:rgb(236, 241, 244);
+}
