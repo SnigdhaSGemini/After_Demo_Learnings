@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.night{
+    background-image: url('../../public/Images/night.jpg');
+    background-size: 100%;
+    color:aliceblue;
+}
+
+h6{
+    color:rgb(170, 97, 239) !important;
+}
+p{
+    color:rgb(174, 166, 240) !important;
+}
+h5{
+    color:rgb(175, 213, 246) !important;
+}

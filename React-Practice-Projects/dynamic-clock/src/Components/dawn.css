@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.dawn{
+    background-image: url('../../public/Images/dawn.jpg');
+    background-size: 100%;
+    color:rgb(237, 171, 146);
+}
+.dawn h6{
+    color:orangered !important;
+}
+.dawn p{
+    color: rgb(163, 242, 242) !important;
+}
+.dawn h5{
+    color:rgb(28, 54, 45) !important;
+}

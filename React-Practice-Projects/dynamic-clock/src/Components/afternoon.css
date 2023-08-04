@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.afternoon{
+    background-image: url('../../public/Images/afternoon.jpg');
+    background-size: 100%;
+    color:olivedrab;
+}
+.afternoon h6{
+    color:orangered !important;
+}
+.afternoon p{
+    color: rgb(209, 136, 3) !important;
+}
+.afternoon h5{
+    color:palevioletred !important;
+}

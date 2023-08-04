@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.noon{
+    background-image: url('../../public/Images/noon.jpg');
+    background-size: 100%;
+    color:bisque;
+}
+h6{
+    color:orange !important;
+}
+p{
+    color:indianred !important;
+}
+h5{
+    color:rgb(244, 223, 197) !important;
+}

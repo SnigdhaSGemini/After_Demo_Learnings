@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.morning{
+    background-image: url('../../public/Images/morning.jpg');
+    background-size: 100%;
+    color:rgb(206, 239, 228);
+}
+.morning h6{
+    color:rgb(9, 145, 145) !important;
+}
+.morning p{
+    color: rgb(163, 242, 242) !important;
+}
+.morning h5{
+    color:rgb(28, 54, 45) !important;
+}

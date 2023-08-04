@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.evening{
+    background-image: url('../../public/Images/evening.jpg');
+    background-size: 100%;
+    color:rgb(201, 158, 241);
+}
+.evening h6{
+    color:brown !important;
+}
+.evening p{
+    color: rgb(159, 121, 121) !important;
+}
+.evening h5{
+    color:rgb(41, 26, 55) !important;
+}
